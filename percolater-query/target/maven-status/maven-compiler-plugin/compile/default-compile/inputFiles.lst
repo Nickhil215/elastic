@@ -1,0 +1,12 @@
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/paramquery/ParametrizedQueryController.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/config/SwaggerConfig.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/paramquery/ParametrizedQueryService.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/perColate/SqlToDslController.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/perColate/perColateIndex.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/perColate/esIndex.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/paramquery/ParametrizedQuery.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/paramquery/ParametrizedQueryRepository.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/perColate/perColateQuery.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/perColate/ElasticConfiguration.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/TestingApplication.java
+/home/nikhil/Music/services/percolater-query/src/main/java/com/example/testing/paramquery/QueryProcessingController.java

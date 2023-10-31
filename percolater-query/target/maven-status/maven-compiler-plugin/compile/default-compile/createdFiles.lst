@@ -1,0 +1,15 @@
+com/example/testing/perColate/perColateQuery.class
+com/example/testing/perColate/SqlToDslController.class
+com/example/testing/paramquery/ParametrizedQueryService$QueryProcessingService.class
+com/example/testing/perColate/perColateIndex$4.class
+com/example/testing/paramquery/ParametrizedQueryRepository.class
+com/example/testing/paramquery/ParametrizedQueryController.class
+com/example/testing/perColate/ElasticConfiguration.class
+com/example/testing/perColate/perColateIndex.class
+com/example/testing/perColate/perColateIndex$3.class
+com/example/testing/TestingApplication.class
+com/example/testing/perColate/perColateIndex$2.class
+com/example/testing/paramquery/ParametrizedQuery.class
+com/example/testing/perColate/perColateIndex$1.class
+com/example/testing/paramquery/QueryProcessingController.class
+com/example/testing/paramquery/ParametrizedQueryService.class
